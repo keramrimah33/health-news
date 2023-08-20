@@ -1,0 +1,36 @@
+h1 {
+    font-size: 50px ;
+    text-align: center;
+    color:rgb(163, 3, 3);
+}
+
+
+.hero-image {
+    width: 60%;
+    padding-left: 260px;
+    padding-bottom: 20px;
+    
+}
+
+h2 {
+    font-size: 30px;
+    color: white;
+    background-color: rgb(4, 4, 78) ;
+}
+
+ul {
+
+    font-size :20px;
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+    background-color: rgb(4, 4, 78) ;
+}
+
+h4 {
+    font-size: 30px;
+    color: white;
+    background-color: rgb(4, 4, 78) ;
+}
