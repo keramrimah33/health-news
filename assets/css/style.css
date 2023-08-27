@@ -47,12 +47,20 @@ h1 {
     
 }
 
-h2 {
+h2, h3, h4, h5 {
     font-size: 30px;
     color: white;
     background-color: rgb(4, 4, 78) ;
+
 }
 
+h6 {
+
+    font-size: 30px;
+    color: white;
+    background-color: rgb(4, 4, 78) ;
+    text-align: center;
+}
 ul {
 
     font-size :20px;
@@ -60,30 +68,11 @@ ul {
 }
 
 
-h3 {
-    font-size: 30px;
-    color: white;
-    background-color: rgb(4, 4, 78) ;
-}
-
-h4 {
-    font-size: 30px;
-    color: white;
-    background-color: rgb(4, 4, 78) ;
-}
-
-h5 {
-    font-size: 30px;
-    color: white;
-    background-color: rgb(4, 4, 78) ; 
-}
-
 p {
     
     font-size :18px; 
+    
 }
-
-
 
 
 
@@ -117,4 +106,15 @@ footer {
     }
 }
 
+table, th, td {
+    border: 1px solid black;
+    font-weight: bold;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    font-size: large;
+    padding: 5px;
+  }
 
+
+  
