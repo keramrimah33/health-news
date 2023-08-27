@@ -85,12 +85,36 @@ p {
 
 
 
-/* Style the footer */
+
+
 footer {
     text-align: center;
     padding: 20px;
-    background-color:  #660b0f;
+    background-color: #660b0f;
     color: #fff;
-    
 }
+
+
+.social-media a {
+    margin-right: 40px; 
+    display: inline-block;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.social-media a:hover {
+    transform: rotate(-5deg);
+    animation: shake 0.5s infinite alternate;
+}
+
+
+@keyframes shake {
+    from {
+        transform: rotate(-5deg);
+    }
+    to {
+        transform: rotate(5deg);
+    }
+}
+
 
