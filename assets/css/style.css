@@ -40,11 +40,20 @@ h1 {
 
 .hero-image {
     
-    
     width: 60%; 
     padding-left: 260px; 
     padding-bottom: 20px; 
     
+}
+
+.health-image {
+ 
+    display: block;
+    width: 60%; 
+    height: 60%;
+    padding-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2, h3, h4, h5 {
